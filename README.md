@@ -1,7 +1,7 @@
 # **Predicting the energy output of wind turbine based on weather condition**
 
 ## **Project Deatils :**
-- Team Name --->  Response200
+- Team Name --->  eCode
 - Team Leader --->  SUJOY NANDI
 - Team Size ---> 1 Member
 
@@ -63,6 +63,14 @@ Here is some technologies and services that are used to develop this Web App.
 ![machineLearning](App/Server/__pycache__/img/ml.png)
 
 <center><img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" alt="flaskApp"></center>
+
+
+<hr>
+
+Preview App Video Link:
+```
+https://youtu.be/TBxMkly3EWQ
+```
 
 
 <hr>
